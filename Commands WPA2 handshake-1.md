@@ -62,5 +62,5 @@ title: Commands WPA2 handshake
 6\. Next, I want to check whether my GPU is available
 
 ![image](https://user-images.githubusercontent.com/79259209/223355264-b897e5a7-4927-4e24-b648-97f631d33a49.png)
-
+# 2B updated ✌️
 7.
