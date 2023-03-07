@@ -3,7 +3,7 @@ title: Bruteforce wpa2
 completed?: no
 ---
 
-** Bruteforce wifi  **
+**Bruteforce wifi**
 
 1.  Navigate to the folder where the .cap file is stored
 2.  Convert the cap file to a file that is readable for 'hashcat'
