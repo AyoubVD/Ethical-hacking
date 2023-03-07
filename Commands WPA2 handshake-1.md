@@ -49,4 +49,4 @@ completed?: yes
 > **I had to use the following command as it was not included in my Kali distro (I downloaded my wordlist)**
 > `aircrack-ng hack1-01.cap -w /root/Downloads/rockyou.txt`
 
-**We can also try this without a wordlist, you can also use a brute force attack**
+**We can also try this without a wordlist, [you can also use a brute force attack](https://github.com/AyoubVD/Ethical-hacking/blob/51bc119549ab96eaf936f4ab024866cd72a6abd0/Bruteforce%20wpa2.md)**
