@@ -1,11 +1,6 @@
 ---
 title: Driver installation
-updated: 2023-03-02 13:56:00Z
-created: 2023-03-02 12:47:38Z
-latitude: 50.81947760
-longitude: 3.25772630
-altitude: 0.0000
-completed?: no
+completed?: yes
 ---
 
 # To install a driver for the chipset **RTL8812AU** on kali linux, you can copy the following commands:
