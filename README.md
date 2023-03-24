@@ -1,2 +1,3 @@
 # Ethical-hacking
-Wordpress was not my dons, so I'll make my blog here :D
+ [You can find my blog here 🧐](https://ayoubtizniti.law.blog/)
+
